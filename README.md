@@ -6,4 +6,4 @@ You can deploy this on your own to vercel, but you will have to generate your ow
 
 no im not adding tiktok or instagram.
 
-This tool isn't finished, so there is no vercel app yet. 
+This tool isn't finished, so there is no vercel app yet. You'll have to upload all the files yourself.
